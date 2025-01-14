@@ -52,6 +52,7 @@ build/test_runtime testfiles/Init.txt
 ```
 
 Arborescence après la construction des fichiers d'exécution:
+```
 .
 ├── Makefile
 ├── README.md
@@ -84,3 +85,4 @@ Arborescence après la construction des fichiers d'exécution:
     └── Unicodes.txt
 
 8 directories, 23 files
+```
